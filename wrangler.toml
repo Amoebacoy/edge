@@ -4,11 +4,3 @@ compatibility_date = "2023-08-23"
 
 [unsafe.metadata.observability]
 enabled = true
-# node_compat = true
-workers_dev = true
-
-[vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "76728544-7b9a-4645-ae24-e7968a468dbb"
-# SOCKS5 = "127.0.0.1:1080"
-# SOCKS5_RELAY = "true"
